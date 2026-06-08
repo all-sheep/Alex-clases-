@@ -1,13 +1,13 @@
-# 📚 Ejercicios de Programación en Java
+# Ejercicios de Programación en Java
 
 Repositorio que contiene una colección de ejercicios básicos desarrollados en Java para practicar estructuras de control, operaciones matemáticas, funciones y algoritmos clásicos.
 
-## 📂 Contenido
-# 📚 Ejercicios de Java
+## Contenido
+# Ejercicios de Java
 
 Repositorio con ejercicios básicos desarrollados en Java.
 
-## 📂 Archivos
+## Archivos
 
 | Archivo | Descripción |
 |----------|------------|
@@ -19,7 +19,7 @@ Repositorio con ejercicios básicos desarrollados en Java.
 | [NumerosPrimos.java](./NumerosPrimos.java) | Números primos |
 | [Funciones.java](./Funciones.java) | Funciones en Java |
 
-## 🛠️ Requisitos
+## Requisitos
 
 - Java JDK 8 o superior
 - Terminal o IDE compatible con Java
@@ -28,7 +28,7 @@ Repositorio con ejercicios básicos desarrollados en Java.
   - NetBeans
   - Visual Studio Code
 
-## 🎯 Objetivo
+## Objetivo
 
 Estos ejercicios fueron desarrollados con fines académicos para reforzar conceptos fundamentales de programación en Java, incluyendo:
 
@@ -40,10 +40,10 @@ Estos ejercicios fueron desarrollados con fines académicos para reforzar concep
 - Funciones
 - Algoritmos matemáticos
 
-## 👨‍💻 Autor
+## Autor
 
 Alejando Mejía de la Garza
 
-## 📄 Licencia
+## Licencia
 
 Uso educativo y académico.
