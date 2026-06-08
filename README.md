@@ -3,84 +3,21 @@
 Repositorio que contiene una colección de ejercicios básicos desarrollados en Java para practicar estructuras de control, operaciones matemáticas, funciones y algoritmos clásicos.
 
 ## 📂 Contenido
+# 📚 Ejercicios de Java
 
-### 1. OperacionAritmetica.java
-Programa que realiza operaciones aritméticas básicas utilizando variables numéricas.
+Repositorio con ejercicios básicos desarrollados en Java.
 
-**Temas:**
-- Suma
-- Resta
-- Multiplicación
-- División
+## 📂 Archivos
 
----
-
-### 2. DivisionEntera.java
-Programa que calcula el cociente y el residuo de una división entre dos números enteros.
-
-**Ejemplo:**
-```
-20 entre 3 da un cociente 6 y un residuo 2
-```
-
----
-
-### 3. Circulo.java
-Programa que calcula propiedades de un círculo a partir de su radio.
-
-**Cálculos realizados:**
-- Área
-- Perímetro (circunferencia)
-
-**Fórmulas utilizadas:**
-
-Área:
-
-A = πr²
-
-Perímetro:
-
-P = 2πr
-
----
-
-### 4. Fibonacci.java
-Genera la sucesión de Fibonacci.
-
-**Ejemplo de salida:**
-```
-0 1 1 2 3 5 8 13 21 ...
-```
-
----
-
-### 5. zzzz.java
-Ejercicio de práctica en Java.
-
-> Se recomienda renombrar el archivo con un nombre más descriptivo para facilitar su identificación.
-
----
-
-### 6. NumerosPrimos.java
-Programa que identifica y muestra números primos.
-
-**Conceptos utilizados:**
-- Ciclos
-- Condicionales
-- Operador módulo (%)
-
----
-
-### 7. Funciones.java
-Colección de funciones desarrolladas en Java para resolver diferentes ejercicios.
-
-**Posibles funciones incluidas:**
-- Saludos personalizados
-- Factorial
-- Cálculos matemáticos
-- Validaciones
-
----
+| Archivo | Descripción |
+|----------|------------|
+| [OperacionAritmetica.java](./OperacionAritmetica.java) | Operaciones aritméticas |
+| [DivisionEntera.java](./DivisionEntera.java) | División entera |
+| [Circulo.java](./Circulo.java) | Cálculos de círculo |
+| [Fibonacci.java](./Fibonacci.java) | Sucesión de Fibonacci |
+| [zzzz.java](./zzzz.java) | Ejercicio de práctica |
+| [NumerosPrimos.java](./NumerosPrimos.java) | Números primos |
+| [Funciones.java](./Funciones.java) | Funciones en Java |
 
 ## 🛠️ Requisitos
 
@@ -90,27 +27,6 @@ Colección de funciones desarrolladas en Java para resolver diferentes ejercicio
   - Eclipse
   - NetBeans
   - Visual Studio Code
-
-## ▶️ Compilación y ejecución
-
-Compilar:
-
-```bash
-javac NombreArchivo.java
-```
-
-Ejecutar:
-
-```bash
-java NombreArchivo
-```
-
-Ejemplo:
-
-```bash
-javac Fibonacci.java
-java Fibonacci
-```
 
 ## 🎯 Objetivo
 
@@ -126,7 +42,7 @@ Estos ejercicios fueron desarrollados con fines académicos para reforzar concep
 
 ## 👨‍💻 Autor
 
-Alex Meg
+Alejando Mejía de la Garza
 
 ## 📄 Licencia
 
