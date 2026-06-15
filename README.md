@@ -9,15 +9,30 @@ Repositorio con ejercicios básicos desarrollados en Java.
 
 ## Archivos
 
-| Archivo | Descripción |
-|----------|------------|
-| [OperacionAritmetica.java](./OperacionAritmetica.java) | Operaciones aritméticas |
-| [DivisionEntera.java](./DivisionEntera.java) | División entera |
-| [Circulo.java](./Circulo.java) | Cálculos de círculo |
-| [Fibonacci.java](./Fibonacci.java) | Sucesión de Fibonacci |
-| [zzzz.java](./zzzz.java) | Ejercicio de práctica |
-| [NumerosPrimos.java](./NumerosPrimos.java) | Números primos |
-| [Funciones.java](./Funciones.java) | Funciones en Java |
+# 📚 Ejercicios de Java
+
+Colección de ejercicios realizados en Java para practicar conceptos fundamentales de programación.
+
+## 📂 Archivos
+
+| Archivo | Enlace |
+|----------|----------|
+| Circulo.java | [Abrir](./Circulo.java) |
+| DivisionEntera.java | [Abrir](./DivisionEntera.java) |
+| Fibonacci.java | [Abrir](./Fibonacci.java) |
+| Funciones.java | [Abrir](./Funciones.java) |
+| IVA.java | [Abrir](./IVA.java) |
+| NumerosPrimos.java | [Abrir](./NumerosPrimos.java) |
+| OperacionAritmetica.java | [Abrir](./OperacionAritmetica.java) |
+| arreglosimple.java | [Abrir](./arreglosimple.java) |
+| atendercola.java | [Abrir](./atendercola.java) |
+| becas.java | [Abrir](./becas.java) |
+| calculadora.java | [Abrir](./calculadora.java) |
+| colasnumerospi.java | [Abrir](./colasnumerospi.java) |
+| contraseña.java | [Abrir](./contraseña.java) |
+| pizzeria.java | [Abrir](./pizzeria.java) |
+| si.java | [Abrir](./si.java) |
+| zzzz.java | [Abrir](./zzzz.java) |
 
 ## Requisitos
 
