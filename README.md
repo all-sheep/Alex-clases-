@@ -9,11 +9,11 @@ Repositorio con ejercicios básicos desarrollados en Java.
 
 ## Archivos
 
-# 📚 Ejercicios de Java
+# Ejercicios de Java
 
 Colección de ejercicios realizados en Java para practicar conceptos fundamentales de programación.
 
-## 📂 Archivos
+##  Archivos
 
 | Archivo | Enlace |
 |----------|----------|
