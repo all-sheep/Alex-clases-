@@ -1,22 +1,11 @@
 # Ejercicios de Programación en Java
 
-Repositorio que contiene una colección de ejercicios básicos desarrollados en Java para practicar estructuras de control, operaciones matemáticas, funciones y algoritmos clásicos.
+Repositorio que contiene una colección de ejercicios desarrollados en Java para practicar estructuras de control, algoritmos, funciones y estructuras de datos.
 
-## Contenido
-# Ejercicios de Java
-
-Repositorio con ejercicios básicos desarrollados en Java.
-
-## Archivos
-
-# Ejercicios de Java
-
-Colección de ejercicios realizados en Java para practicar conceptos fundamentales de programación.
-
-##  Archivos
+## Primer Parcial
 
 | Archivo | Enlace |
-|----------|----------|
+|----------|---------|
 | Circulo.java | [Abrir](./Circulo.java) |
 | DivisionEntera.java | [Abrir](./DivisionEntera.java) |
 | Fibonacci.java | [Abrir](./Fibonacci.java) |
@@ -34,10 +23,24 @@ Colección de ejercicios realizados en Java para practicar conceptos fundamental
 | si.java | [Abrir](./si.java) |
 | zzzz.java | [Abrir](./zzzz.java) |
 
+---
+
+## Segundo Parcial
+
+| Archivo | Enlace |
+|----------|---------|
+| busquedaactu.java | [Abrir](./busquedaactu.java) |
+| cuadrocomparativo.md | [Abrir](./cuadrocomparativo.md) |
+| enlazadalista.java | [Abrir](./enlazadalista.java) |
+
+> **Nota:** `README.md` no se incluye porque corresponde a la documentación del repositorio.
+
+---
+
 ## Requisitos
 
-- Java JDK 8 o superior
-- Terminal o IDE compatible con Java
+- Java JDK 8 o superior.
+- Un IDE o editor compatible con Java, por ejemplo:
   - IntelliJ IDEA
   - Eclipse
   - NetBeans
@@ -47,17 +50,18 @@ Colección de ejercicios realizados en Java para practicar conceptos fundamental
 
 Estos ejercicios fueron desarrollados con fines académicos para reforzar conceptos fundamentales de programación en Java, incluyendo:
 
-- Variables
-- Tipos de datos
-- Operadores
-- Estructuras de control
-- Ciclos
-- Funciones
-- Algoritmos matemáticos
+- Variables y tipos de datos.
+- Operadores.
+- Estructuras de control.
+- Ciclos.
+- Funciones.
+- Algoritmos matemáticos.
+- Arreglos.
+- Estructuras de datos (colas, listas enlazadas, etc.).
 
 ## Autor
 
-Alejando Mejía de la Garza
+**Alejandro Mejía de la Garza**
 
 ## Licencia
 
