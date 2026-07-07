@@ -30,6 +30,7 @@ Repositorio que contiene una colección de ejercicios desarrollados en Java para
 | Archivo | Enlace |
 |----------|---------|
 | busquedaactu.java | [Abrir](./busquedaactu.java) |
+| nodo.java | [Abrir](./nodo.java) |
 | cuadrocomparativo.md | [Abrir](./cuadrocomparativo.md) |
 | enlazadalista.java | [Abrir](./enlazadalista.java) |
 
