@@ -22,8 +22,7 @@ ipublic class Nodo {
     public void setSiguienteNodo(Nodo siguienteNodo) {
         this.siguienteNodo = siguienteNodo;
     }
-
-    // Busca un nodo por su dato, devuelve el nodo o null si no lo encuentra
+
     public static Nodo buscar(Nodo inicio, String dato) {
         Nodo actual = inicio;
         while (actual != null) {
@@ -34,8 +33,7 @@ ipublic class Nodo {
         }
         return null;
     }
-
-    // Actualiza el dato de un nodo buscado por su valor actual
+
     public static boolean actualizar(Nodo inicio, String datoBuscado, String datoNuevo) {
         Nodo nodo = buscar(inicio, datoBuscado);
         if (nodo != null) {
@@ -71,7 +69,7 @@ ipublic class Nodo {
             actual = actual.getSiguienteNodo();
         }
 
-        // Prueba de búsqueda
+        
         Nodo encontrado = buscar(n1, "D");
         if (encontrado != null) {
             System.out.println("Nodo encontrado con dato: " + encontrado.getDato());
@@ -79,7 +77,7 @@ ipublic class Nodo {
             System.out.println("Nodo no encontrado");
         }
 
-        // Prueba de actualización
+        
         actualizar(n1, "D", "Z");
         System.out.println("Después de actualizar D -> Z:");
         actual = n1;
