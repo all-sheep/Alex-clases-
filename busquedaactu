@@ -1,4 +1,4 @@
-public class Nodo {
+ipublic class Nodo {
     private String dato;
     private Nodo siguienteNodo;
 
@@ -93,3 +93,4 @@ public class Nodo {
         }
     }
 }
+
