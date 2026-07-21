@@ -33,7 +33,7 @@ Repositorio que contiene una colección de ejercicios desarrollados en Java para
 | busquedaactu.java | [Abrir](./busquedaactu.java) |
 | cuadrocomparativo.md | [Abrir](./cuadrocomparativo.md) |
 | enlazadalista.java | [Abrir](./enlazadalista.java) |
-| Integrador P-2 | [Abrir](./integrador-p-2/) |
+| Integrador P-2 | [Abrir](./Integrador-p-2/) |
 
 > **Nota:** `README.md` no se incluye porque corresponde a la documentación del repositorio.
 
