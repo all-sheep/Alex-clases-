@@ -22,7 +22,7 @@ Repositorio que contiene una colección de ejercicios desarrollados en Java para
 | pizzeria.java | [Abrir](./pizzeria.java) |
 | si.java | [Abrir](./si.java) |
 | zzzz.java | [Abrir](./zzzz.java) |
-| Integrador P1 | [Abrir](./integradorp-1) |
+| Integrador P-1 | [Abrir](./integradorP-1) |
 
 ---
 
@@ -33,7 +33,7 @@ Repositorio que contiene una colección de ejercicios desarrollados en Java para
 | busquedaactu.java | [Abrir](./busquedaactu.java) |
 | cuadrocomparativo.md | [Abrir](./cuadrocomparativo.md) |
 | enlazadalista.java | [Abrir](./enlazadalista.java) |
-| Integrador P-2 | [Abrir](./integrador-P-2/) |
+| Integrador P-2 | [Abrir](./integrador-p-2/) |
 
 > **Nota:** `README.md` no se incluye porque corresponde a la documentación del repositorio.
 
