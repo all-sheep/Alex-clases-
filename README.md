@@ -34,7 +34,7 @@ Repositorio que contiene una colección de ejercicios desarrollados en Java para
 | cuadrocomparativo.md | [Abrir](./cuadrocomparativo.md) |
 | enlazadalista.java | [Abrir](./listadoble.java) |
 | listadoble.java | [Abrir](./enlazadalista.java) |
-| recursiva.java | [Abrir](./recursiva.java) |
+| recursivo.java | [Abrir](./recursivo.java) |
 | Integrador P-2 | [Abrir](./Integrador-p-2/) |
 
 > **Nota:** `README.md` no se incluye porque corresponde a la documentación del repositorio.
