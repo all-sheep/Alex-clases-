@@ -46,7 +46,7 @@ Repositorio que contiene una colección de ejercicios desarrollados en Java para
 | Lista-enlazada | [Abrir](./Lista-enlazada/) |
 | arbol-manual | [Abrir](./arbol-manual/) |
 | grafo | [Abrir](./grafo/) |
-| Integrador P-3 | [Abrir](./Integrador-3/) |
+| Integrador P-3 | [Abrir](./integrador%203/) |
 
 > **Nota:** `README.md` no se incluye porque corresponde a la documentación del repositorio.
 
@@ -58,7 +58,7 @@ Repositorio que contiene una colección de ejercicios desarrollados en Java para
 |----------|---------|
 | Integrador P-1 | [Abrir](./integradorP-1) |
 | Integrador P-2 | [Abrir](./Integrador-p-2/) |
-| Integrador P-3 | [Abrir](./Integrador-3/) |
+| Integrador P-3 | [Abrir](./integrador%203/) |
 
 ---
 
