@@ -37,12 +37,32 @@ Repositorio que contiene una colección de ejercicios desarrollados en Java para
 | recursivo.java | [Abrir](./recursivo.java) |
 | Integrador P-2 | [Abrir](./Integrador-p-2/) |
 
+---
+
+## Tercer Parcial
+
+| Archivo | Enlace |
+|----------|---------|
+| Lista-enlazada | [Abrir](./Lista-enlazada/) |
+| arbol-manual | [Abrir](./arbol-manual/) |
+| grafo | [Abrir](./grafo/) |
+| Integrador P-3 | [Abrir](./Integrador-p-3/) |
+
 > **Nota:** `README.md` no se incluye porque corresponde a la documentación del repositorio.
 
 ---
 
-## Requisitos
+## Proyectos Integradores
 
+| Proyecto | Enlace |
+|----------|---------|
+| Integrador P-1 | [Abrir](./integradorP-1) |
+| Integrador P-2 | [Abrir](./Integrador-p-2/) |
+| Integrador P-3 | [Abrir](./Integrador-p-3/) |
+
+---
+
+## Requisitos
 - Java JDK 8 o superior.
 - Un IDE o editor compatible con Java, por ejemplo:
   - IntelliJ IDEA
@@ -51,9 +71,7 @@ Repositorio que contiene una colección de ejercicios desarrollados en Java para
   - Visual Studio Code
 
 ## Objetivo
-
 Estos ejercicios fueron desarrollados con fines académicos para reforzar conceptos fundamentales de programación en Java, incluyendo:
-
 - Variables y tipos de datos.
 - Operadores.
 - Estructuras de control.
@@ -64,9 +82,7 @@ Estos ejercicios fueron desarrollados con fines académicos para reforzar concep
 - Estructuras de datos (colas, listas enlazadas, etc.).
 
 ## Autor
-
 **Alejandro Mejía de la Garza**
 
 ## Licencia
-
 Uso educativo y académico.
