@@ -58,7 +58,7 @@ Repositorio que contiene una colección de ejercicios desarrollados en Java para
 |----------|---------|
 | Integrador P-1 | [Abrir](./integradorP-1) |
 | Integrador P-2 | [Abrir](./Integrador-p-2/) |
-| Integrador P-3 | [Abrir](./Integrador-p-3/) |
+| Integrador P-3 | [Abrir](./Integrador 3/) |
 
 ---
 
